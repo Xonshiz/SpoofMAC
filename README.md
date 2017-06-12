@@ -2,6 +2,8 @@
 
 ### *NOTE: Consider using [spoof](https://github.com/feross/spoof), a node.js port of this package.*
 
+### *NOTE : This library is not maintained anymore and may or may or not work on the systems. You can refer [this Issue #64](https://github.com/feross/SpoofMAC/issues/64).
+
 ### For OS X, Windows, and Linux (most flavors)
 
 I made this because changing your MAC address in Mac OS X is harder than it
